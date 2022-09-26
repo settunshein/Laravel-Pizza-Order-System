@@ -1,7 +1,8 @@
 $(document).ready(function(){
-    $('.btn-plus').click(function(){
+    $('.btn-plus').click(function () {
+        let rowCount = $('#cartListTable tbody tr').length;
         calculateCount($(this));
-        calculateTotal();
+        calculateTotal(rowCount);
     });
 
 
@@ -23,7 +24,7 @@ $(document).ready(function(){
     }
 
 
-    function calculateTotal(rowCount)
+    function calculateTotal(rowCount = null)
     {
         if (rowCount > 0) {
             let subTotal = 0;
