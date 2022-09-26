@@ -1,0 +1,46 @@
+[
+    {
+        "id"         : 1,
+        "user_id"    : 6,
+        "order_code" : "POS0000000001",
+        "total_price": 90000,
+        "status"     : 1,
+        "created_at" : "2022-09-01 00:00:00"
+    },
+
+    {
+        "id"         : 2,
+        "user_id"    : 7,
+        "order_code" : "POS0000000002",
+        "total_price": 325000,
+        "status"     : 1,
+        "created_at" : "2022-09-02 00:00:00"
+    },
+
+    {
+        "id"         : 3,
+        "user_id"    : 8,
+        "order_code" : "POS0000000003",
+        "total_price": 100000,
+        "status"     : 1,
+        "created_at" : "2022-09-03 00:00:00"
+    },
+
+    {
+        "id"         : 4,
+        "user_id"    : 9,
+        "order_code" : "POS0000000004",
+        "total_price": 150000,
+        "status"     : 1,
+        "created_at" : "2022-09-04 00:00:00"
+    },
+
+    {
+        "id"         : 5,
+        "user_id"    : 10,
+        "order_code" : "POS0000000005",
+        "total_price": 250000,
+        "status"     : 0,
+        "created_at" : "2022-09-05 00:00:00"
+    }
+]

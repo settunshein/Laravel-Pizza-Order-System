@@ -1,0 +1,91 @@
+[
+    {
+        "name"    : "Mg Mg",
+        "email"   : "mgmg@gmail.com",
+        "phone"   : "09123123123",
+        "address" : "Yangon",
+        "role"    : "admin",
+        "gender"  : "male"
+    },
+
+    {
+        "name"    : "Ag Ag",
+        "email"   : "agag@gmail.com",
+        "phone"   : "09234234234",
+        "address" : "Yangon",
+        "role"    : "admin",
+        "gender"  : "male"
+    },
+
+    {
+        "name"    : "Ho Ho",
+        "email"   : "hoho@gmail.com",
+        "phone"   : "09345345345",
+        "address" : "Yangon",
+        "role"    : "admin",
+        "gender"  : "male"
+    },
+
+    {
+        "name"    : "To To",
+        "email"   : "toto@gmail.com",
+        "phone"   : "09456456456",
+        "address" : "Yangon",
+        "role"    : "admin",
+        "gender"  : "male"
+    },
+
+    {
+        "name"    : "No No",
+        "email"   : "nono@gmail.com",
+        "phone"   : "09567567567",
+        "address" : "Yangon",
+        "role"    : "admin",
+        "gender"  : "female"
+    },
+
+    {
+        "name"    : "Mo Mo",
+        "email"   : "momo@gmail.com",
+        "phone"   : "09611611611",
+        "address" : "Yangon",
+        "role"    : "user",
+        "gender"  : "female"
+    },
+
+    {
+        "name"    : "Jo Jo",
+        "email"   : "jojo@gmail.com",
+        "phone"   : "09711711711",
+        "address" : "Yangon",
+        "role"    : "user",
+        "gender"  : "female"
+    },
+
+    {
+        "name"    : "Lu Lu",
+        "email"   : "lulu@gmail.com",
+        "phone"   : "09662662662",
+        "address" : "Yangon",
+        "role"    : "user",
+        "gender"  : "female"
+    },
+
+    {
+        "name"    : "Go Go",
+        "email"   : "gogo@gmail.com",
+        "phone"   : "09615615615",
+        "address" : "Yangon",
+        "role"    : "user",
+        "gender"  : "male"
+    },
+
+    {
+        "name"    : "Wo Wo",
+        "email"   : "wowo@gmail.com",
+        "phone"   : "09492492492",
+        "address" : "Yangon",
+        "role"    : "user",
+        "gender"  : "male"
+    }
+]
